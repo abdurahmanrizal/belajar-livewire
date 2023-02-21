@@ -6,6 +6,6 @@
     </div>
     <button wire:click.prevent="store" wire:loading.attr="disabled" class="btn btn-success fw-bold shadow">Save</button>
     <div wire:loading>
-        Processing...
+        Processing...dulu
     </div>
 </form>
